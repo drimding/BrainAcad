@@ -51,7 +51,7 @@ public class Computer {
     }
 
     public void view(){
-        System.out.printf("Manufacturer: %s\nSerial Number: %d\nPrice: %f\n" +
+        System.out.printf("Manufacturer: %s\nSerial Number: %d\nPrice: %.2f\n" +
                 "Quantity CPU: %d\nFrequency CPU: %d\n", getManufacturer(), getSerialNumber(), getPrice(),
                 getQuantityCPU(), getFrequencyCPU());
     }
