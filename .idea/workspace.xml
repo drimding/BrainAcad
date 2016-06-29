@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71a2a669-b6cf-4b31-b954-2298fb41c875" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/BrainAcad_jar.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_3/task/_2_3_1/MyWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_3/task/startInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/tasks/StaticClassMembers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/tasks/_2_4_1/ArraysAlgoritms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/StaticClassMembers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_1/MyMath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_4/Emploee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_1/MyInitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_2/MyInit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_3/MyInit.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_5/InitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/startInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/shapes/Triangle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BrainAcad/brain/lab_2_1/task05/Computer.class" afterPath="$PROJECT_DIR$/out/production/BrainAcad/brain/lab_2_1/task05/Computer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BrainAcad/brain/lab_2_1/task05/main.class" afterPath="$PROJECT_DIR$/out/production/BrainAcad/brain/lab_2_1/task05/main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_1/task05/Computer.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_1/task05/Computer.java" />
     </list>
     <ignored path="BrainAcad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -198,10 +176,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="brain" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -795,15 +769,15 @@
       <workItem from="1467110932200" duration="1665000" />
       <workItem from="1467127832124" duration="1963000" />
       <workItem from="1467135731955" duration="599000" />
-      <workItem from="1467143720044" duration="5468000" />
+      <workItem from="1467143720044" duration="5655000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63781000" />
+    <option name="totallyTimeSpent" value="63968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="1" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
