@@ -4,7 +4,7 @@ package brain.lab_2_1.task05;
  * Created by drimcatcher on 22.06.2016.
  */
 public class main {
-    public static void main(String[] argn){
+    public static void main(String[] args){
 
         Computer[] computers = createArrayComputers();
 

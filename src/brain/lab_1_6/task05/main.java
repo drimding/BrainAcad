@@ -4,7 +4,7 @@ package brain.lab_1_6.task05;
  * Created by drimcatcher on 16.06.2016.
  */
 public class main {
-    public static void main (String[] argn){
+    public static void main (String[] args){
         int[][] arr =
                 {       {1,1,1,2,5},
                         {2,1,5,1,2},

@@ -6,7 +6,7 @@ import java.util.Random;
  * Created by drimcatcher on 20.06.2016.
  */
 public class main {
-    public static void main (String[] argn){
+    public static void main (String[] args){
         int[] arr = new int[25];
         Random r = new Random(System.currentTimeMillis());
         int min=1;

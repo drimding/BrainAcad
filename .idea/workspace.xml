@@ -2,8 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71a2a669-b6cf-4b31-b954-2298fb41c875" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_12/task_05/MyTestClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_12/task_05/app.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_12/task_05/testLocal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Card.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Rank.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Suit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_13/task_All/main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_14/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_14/tasks/MyMixer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_14/tasks/MyTestMethod.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_02/main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_03/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Animal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Dog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Puppy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_05/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_17/task_01/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_17/task_01/MyTimeBomb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_17/task_02/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_17/task_02/MyTimeBomb.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_17/task_03/MySumCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_2/task_01/Matrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/bonus01/inheritance/move/Eater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/bonus01/inheritance/workers/Developer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/bonus01/inheritance/workers/QA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/bonus01/inheritance/workers/Worker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/com/brainacad/oop/testshapes/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/com/brainacad/oop/testshapes/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/com/brainacad/oop/testshapes/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/com/brainacad/oop/testshapes/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/tasks/devices/Device.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/tasks/devices/EthernetAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/brain/lab_2_7/tasks/devices/Monitor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_4/task8/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_4/task8/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_5/task3/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_5/task3/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_5/task5/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_5/task5/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_1/task03/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_1/task03/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_1/task04/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_1/task04/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_1/task05/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_1/task05/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java" afterPath="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java" />
     </list>
     <ignored path="BrainAcad.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -20,28 +73,25 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="BrainAcad" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5618861">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -57,57 +107,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/org/dreamcatcer/lab_1_6/main.java" />
-        <option value="$PROJECT_DIR$/src/org/dreamcatcer/lab_1_6/task05/main.java" />
-        <option value="$PROJECT_DIR$/src/org/dreamcatcer/lab_1_6/taskBonus01/main.java" />
-        <option value="$PROJECT_DIR$/src/org/dreamcatcer/lab_1_6/task01/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_4/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_4/task8/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_5/task5/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_5/task3/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/person.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/Person.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_7/tasks/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java" />
         <option value="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task2/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task2/animals/Animal.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/task01/manufacturer.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/task01/Computer.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/task02/Computer.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/task03/Computer.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/task04/Computer.java" />
         <option value="$PROJECT_DIR$/src/brain/lab_2_1/task03/main.java" />
         <option value="$PROJECT_DIR$/src/brain/lab_2_1/task04/main.java" />
         <option value="$PROJECT_DIR$/src/brain/lab_2_1/task05/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_1/task05/Computer.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/Main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/tasks/_2_4_1/ArraysAlgoritms.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/bonus01/tasks/StaticClassMembers.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/tasks/main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/tasks/Main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/labs/StaticClassMembers.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_1/MyMath.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_4/Emploee.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/StaticClassMembers.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_1/MyInitTest.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_2/MyInit.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_6/bonus01/Hello.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_6/bonus01/hello/Hello.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/shapes/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_3/MyInit.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_5/InitTest.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/startInterface.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_3/task/_2_3_1/MyWindow.java" />
-        <option value="$PROJECT_DIR$/src/brain/lab_2_3/task/startInterface.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_5/task5/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_4/task8/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_1_5/task3/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_13/task_01/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Rank.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Suit.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_13/task_04/Card.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_13/task_All/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/Animal.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/Dog.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_02/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_03/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Puppy.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_05.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_05/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/MyTimeBomb.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/task_01/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/task_01/MyTimeBomb.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/task_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/task_02/MyTimeBomb.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_17/task_03/MySumCount.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_2/task_01/Matrix.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/MyTuple.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/MyTestMethod.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/task_02/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/task_02/MyTestMethod.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/tasks/MyTestMethod.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/tasks/Main.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/tasks/MyMixer.java" />
+        <option value="$PROJECT_DIR$/src/brain/lab_2_14/Main.java" />
       </list>
     </option>
   </component>
@@ -115,6 +165,16 @@
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-9" />
@@ -147,6 +207,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -178,22 +241,45 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brain" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRushHomeWork" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="219" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="252" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="253" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1160" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="231" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="248" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="249" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1156" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="brain.lab_2_14" />
+      <recent name="brain.lab_2_17" />
+      <recent name="brain.lab_2_16.tasks" />
+      <recent name="brain.lab_2_13" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="brain.lab_2_3.task" />
       <recent name="brain.lab_2_5.labs.tasks._2_5_3" />
@@ -202,79 +288,20 @@
       <recent name="brain.lab_2_1.task03" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\development\Java work\BrainAcad\src\brain\lab_2_16\tasks\task_04" />
       <recent name="D:\development\Java work\BrainAcad\src\brain\lab_2_1\task05" />
       <recent name="D:\development\Java work\BrainAcad\src\brain\lab_2_1\task04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration default="false" name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="brain.lab_2_4.labs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="brain.lab_2_4.labs.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BrainAcad" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="brain.lab_2_5.labs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="brain.lab_2_5.labs.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BrainAcad" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="brain.lab_2_6.bonus01.hello.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="brain.lab_2_6.bonus01.hello.Hello" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="BrainAcad" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="brain.lab_2_6_5.com.brainacad.calc.*" />
+          <option name="PATTERN" value="brain.lab_2_7.tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="brain.lab_2_6_5.com.brainacad.calc.Main" />
+      <option name="MAIN_CLASS_NAME" value="brain.lab_2_7.tasks.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -287,14 +314,54 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="app" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="brain.lab_2_3.task.*" />
+          <option name="PATTERN" value="brain.lab_2_12.task_05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="brain.lab_2_3.task.Main" />
+      <option name="MAIN_CLASS_NAME" value="brain.lab_2_12.task_05.app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BrainAcad" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="brain.lab_2_13.task_All.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="brain.lab_2_13.task_All.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BrainAcad" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="brain.lab_2_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="brain.lab_2_14.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -729,20 +796,19 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Main (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Hello" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Main (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Main (4)" />
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.app" />
+      <item index="2" class="java.lang.String" itemvalue="Application.main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main (4)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Main (2)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Hello" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.main" />
+        <item index="3" class="java.lang.String" itemvalue="Application.app" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -769,41 +835,91 @@
       <workItem from="1467110932200" duration="1665000" />
       <workItem from="1467127832124" duration="1963000" />
       <workItem from="1467135731955" duration="599000" />
-      <workItem from="1467143720044" duration="5655000" />
+      <workItem from="1467143720044" duration="6432000" />
+      <workItem from="1467273577390" duration="667000" />
+      <workItem from="1467300776277" duration="8136000" />
+      <workItem from="1467402438392" duration="1333000" />
+      <workItem from="1467414823661" duration="172000" />
+      <workItem from="1467443310799" duration="599000" />
+      <workItem from="1467482432219" duration="1812000" />
+      <workItem from="1467752596016" duration="13000" />
+      <workItem from="1467905326001" duration="5246000" />
+      <workItem from="1468048983668" duration="727000" />
+      <workItem from="1468096189296" duration="13000" />
+      <workItem from="1468181267282" duration="112000" />
+      <workItem from="1468187591630" duration="862000" />
+      <workItem from="1468339378248" duration="8780000" />
+      <workItem from="1468400251404" duration="73000" />
+      <workItem from="1468510418889" duration="4300000" />
+      <workItem from="1468533555530" duration="10000" />
+      <workItem from="1468654784126" duration="6892000" />
+      <workItem from="1468759925041" duration="624000" />
+      <workItem from="1469115459045" duration="635000" />
+      <workItem from="1469211256109" duration="293000" />
+      <workItem from="1469216668580" duration="33000" />
+      <workItem from="1469256660108" duration="1890000" />
+      <workItem from="1469374273765" duration="106000" />
+      <workItem from="1469379398446" duration="6473000" />
+      <workItem from="1469458912200" duration="4542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63968000" />
+    <option name="totallyTimeSpent" value="119088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1050" extended-state="1" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32772166" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41022852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.246875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.50208336" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4781145" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.342312" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2165059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39955106" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39842874" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32772166" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.50208336" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4781145" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32884398" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22936763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973205" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39842874" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -827,150 +943,59 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_1/MyInitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_7/bonus01/inheritance/InheritanceMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3962264">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_7/com/brainacad/oop/testshapes/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task05/main.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task05/Computer.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task2/main.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_1/MyMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task2/animals/Animal.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/bonus01/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_5/task5/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7712305">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27556327">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_5/task3/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23743501">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4948097">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_4/task8/main.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.19031142">
+        <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.38062283">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64705884">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -981,233 +1006,312 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task02/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task03/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8373702">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task04/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92387545">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task03/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26643598">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task04/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task2/animals/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task2/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2307693">
-          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/bonus01/task1/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.051282052">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task05/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/bonus01/tasks/StaticClassMembers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.12244898">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/bonus01/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task01/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/labs/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49387756">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/StaticClassMembers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64081633">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_1/MyInitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2979684">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/shapes/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.73964494">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_2/MyInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21696253">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_1/task05/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.086785">
-          <caret line="52" column="0" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
-          <folding />
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/task05/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7790927">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_4/Emploee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.6055227">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/labs/tasks/_2_4_1/MyMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39053255">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="37" />
-          <folding>
-            <element signature="e#217#218#0" expanded="false" />
-            <element signature="e#245#246#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_4/bonus01/tasks/_2_4_1/ArraysAlgoritms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.60946745">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_3/MyInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34714004">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_6/taskBonus01/main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/_2_5_5/InitTest.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_4/task8/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8244576">
+        <state vertical-scroll-proportion="0.2264151">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_5/task3/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5711061">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_5/task5/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44695258">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_13/task_04/Rank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_13/task_04/Suit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26415095">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_13/task_04/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="e#389#390#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_5/labs/tasks/startInterface.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8678501">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="579" column="24" selection-start-line="579" selection-start-column="15" selection-end-line="579" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3380531">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_01/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23362832">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64955753">
+          <caret line="25" column="5" selection-start-line="17" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_03/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31150442">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_05/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5840708">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_16/tasks/task_04/Puppy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19469027">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_17/task_01/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31150442">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_17/task_01/MyTimeBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.739823">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_17/task_02/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_1_4/task4/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15366705">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_17/task_03/MySumCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4097788">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_2/task_01/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_3/task/_2_3_1/MyWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_2_3/task/startInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_3/task/_2_3_1/MyWindow.java">
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/shapes/Triangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.52455795">
-          <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_3/task/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51866406">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/brain/lab_2_6_5/com/brainacad/calc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5618861">
+        <state vertical-scroll-proportion="0.5061947">
           <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_13/task_All/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4159292">
+          <caret line="84" column="26" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_12/task_05/app.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.64955753">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_7/tasks/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7787611">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_17/task_02/MyTimeBomb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53846157">
+          <caret line="23" column="80" selection-start-line="23" selection-start-column="80" selection-end-line="23" selection-end-column="80" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_14/tasks/MyTestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="65" selection-start-line="51" selection-start-column="65" selection-end-line="51" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_14/tasks/MyMixer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#761#762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/brain/lab_2_14/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.801085">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

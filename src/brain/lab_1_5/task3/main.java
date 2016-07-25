@@ -4,9 +4,9 @@ package brain.lab_1_5.task3;
  * Created by drimcatcher on 21.06.2016.
  */
 public class main {
-    public static void main(String[] argn) {
+    public static void main(String[] args) {
 
-        int length = 9; // Set table size
+        int length = 20; // Set table size
 
         for (int i = 1; i <= length; i++) {
             for (int j = 1; j <= length; j++) {
